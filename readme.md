@@ -47,7 +47,7 @@ A mean difference of 3.04 for the variable CPP indicates that, on average, the t
 ![](output_mainDiff.PNG)
 
 ## Hardware Requirements
-The method runs on a cheap virtual machine provided by cloud computing company (2 x86 CPU core, 4 GB RAM, 40GB HDD). 
+The method runs on a regular virtual machine provided by cloud computing company (2 x86 CPU core, 4 GB RAM, 40GB HDD). 
 
 ## Environment Setup
 To run this method locally, ensure you have R (version  3.6.0 or higher) installed on your system.
